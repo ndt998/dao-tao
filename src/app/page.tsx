@@ -54,7 +54,7 @@ const menuItems: MenuItem[] = [
     id: 'classes',
     title: 'Tình hình mở lớp',
     icon: <Users className="w-5 h-5" />,
-    link: 'https://script.google.com/macros/s/AKfycbz5JLmTGuuN_aiu69yu7Kn3BPK4hFvrBECaJ3dzr-xqnNf90HofOFFKuEKR9Fz8f4dQ/exec'
+    link: 'https://script.google.com/macros/s/AKfycbw8r9e7-TVajkuKsEWgz7sinN2lrtn1HWjDZV1-sDcFiGuNB1aZnIbCbV0dHPcQVX9jWg/exec'
   }
 ]
 
