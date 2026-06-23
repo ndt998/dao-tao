@@ -36,19 +36,19 @@ const menuItems: MenuItem[] = [
     id: 'gantt',
     title: 'Gantt Chart TKB',
     icon: <Calendar className="w-5 h-5" />,
-    link: 'https://script.google.com/macros/s/AKfycbwBAGPYifJbBpITeTV05H3y7mcf3ysU8KYIA5aRLB41lOfJT03jJU_1qBFKK1rotYkd/exec'
+    link: 'https://script.google.com/macros/s/AKfycbzuyN0JUjJS7NZ_SujK2xnyp7EfVd7LykRA-STYjiURnHRQBOHD9z5UVGuVJRbe-0lW/exec'
   },
   {
     id: 'stats',
     title: 'Báo cáo tiến độ tháng 5 - 25-5-26',
     icon: <BarChart3 className="w-5 h-5" />,
-    link: 'https://script.google.com/macros/s/AKfycbw47sz8uPDzlTkxNLdyUMSBgHIs90HlzF9jFCln4RVPuzcLuvQZnbWrq4FWgnLmDxR4XA/exec' // Đang cập nhật
+    link: 'https://script.google.com/macros/s/AKfycby20vmxWDOlL2FeSbqQG8YLdlVLo1xeuGAqu_DbH7u-_DyHGNGDeF--IdAvvnjcDbo2tA/exec' // Đang cập nhật
   },
   {
     id: 'progress',
     title: 'Báo cáo tiến độ tháng 4',
     icon: <FileText className="w-5 h-5" />,
-    link: 'https://script.google.com/macros/s/AKfycby8vKr9lT4nj-EAkBFJxx5WW8GHqRFQM3jG5plty9zzxItwkv9r0X-WZsxr3XPrQxug/exec'
+    link: 'https://script.google.com/macros/s/AKfycbxI62KKRB-F2WfVz1yN5pyCi_wjRlGBD_2NUJo7J5O2sZ3HuTyb9PuCmWqHIUC2CjOP/exec'
   },
   {
     id: 'classes',
