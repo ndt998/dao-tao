@@ -48,7 +48,7 @@ const menuItems: MenuItem[] = [
     id: 'progress',
     title: 'Báo cáo tiến độ tháng 4',
     icon: <FileText className="w-5 h-5" />,
-    link: 'https://script.google.com/macros/s/AKfycbxI62KKRB-F2WfVz1yN5pyCi_wjRlGBD_2NUJo7J5O2sZ3HuTyb9PuCmWqHIUC2CjOP/exec'
+    link: '' // Đang cập nhật
   },
   {
     id: 'classes',
