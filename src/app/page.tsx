@@ -42,11 +42,11 @@ const menuItems: MenuItem[] = [
     id: 'stats',
     title: 'Báo cáo tiến độ tháng 7',
     icon: <BarChart3 className="w-5 h-5" />,
-    link: '' // Đang cập nhật
+    link: 'https://script.google.com/macros/s/AKfycby20vmxWDOlL2FeSbqQG8YLdlVLo1xeuGAqu_DbH7u-_DyHGNGDeF--IdAvvnjcDbo2tA/exec' // Đang cập nhật
   },
   {
     id: 'progress',
-    title: 'Báo cáo tiến độ tháng 4',
+    title: 'Báo cáo tiến độ tháng 6',
     icon: <FileText className="w-5 h-5" />,
     link: '' // Đang cập nhật
   },
