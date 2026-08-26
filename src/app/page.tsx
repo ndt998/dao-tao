@@ -40,7 +40,7 @@ const menuItems: MenuItem[] = [
   },
   {
     id: 'stats',
-    title: 'Báo cáo tiến độ tháng 7',
+    title: 'Báo cáo tiến độ tháng 8',
     icon: <BarChart3 className="w-5 h-5" />,
     link: 'https://script.google.com/macros/s/AKfycby20vmxWDOlL2FeSbqQG8YLdlVLo1xeuGAqu_DbH7u-_DyHGNGDeF--IdAvvnjcDbo2tA/exec' // Đang cập nhật
   },
@@ -93,7 +93,7 @@ export default function HomePage() {
   const [iframeUrl, setIframeUrl] = useState('')
   const [iframeTitle, setIframeTitle] = useState('')
   const [iframeLoading, setIframeLoading] = useState(false)
-  const [mainIframeUrl] = useState('https://script.google.com/a/macros/dma.edu.vn/s/AKfycbxdcSSbDfjz2WBZDBMqDqNMMVHVPkspjm11zuzo_fdbuXcBLaJ7D6K7gbW0mHQ-PILH/exec') // URL cho iframe chính tại khu vực đen
+  const [mainIframeUrl] = useState('https://script.google.com/macros/s/AKfycbyapGXYBYLRBX7b6b_uWD16mZp2_W5zHzdbCzvQK-TrLgsnXfkJqBrRyjnG0cz1xuAdYw/exec') // URL cho iframe chính tại khu vực đen
 
   // Update clock every second
   useEffect(() => {
