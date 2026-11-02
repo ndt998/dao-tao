@@ -40,9 +40,9 @@ const menuItems: MenuItem[] = [
   },
   {
     id: 'stats',
-    title: 'Báo cáo tiến độ tháng 8',
+    title: 'Báo cáo tiến độ tháng 10',
     icon: <BarChart3 className="w-5 h-5" />,
-    link: 'https://script.google.com/macros/s/AKfycby20vmxWDOlL2FeSbqQG8YLdlVLo1xeuGAqu_DbH7u-_DyHGNGDeF--IdAvvnjcDbo2tA/exec' // Đang cập nhật
+    link: 'https://script.google.com/a/macros/dma.edu.vn/s/AKfycbyfU_APxdoW3vMos82e3Js4koReJO3A65jylvjdbU3oc_bV5_Yc0BcjLgfj01MTxupa/exec' // Đang cập nhật
   },
   {
     id: 'progress',
